@@ -1,6 +1,6 @@
 # < Duopass >
 <fig>
-<img src="https://github.com/jardelima/conecta-inn/blob/main/src/assets/images/image-github.png?raw=true" alt="Banner do projeto">
+<img src="https://github.com/jardelima/duopass/blob/main/src/assets/images/banner.png" alt="Banner do projeto">
 <figcaption>Banner do Projeto</figcaption>
 </fig>
 
