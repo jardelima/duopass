@@ -1,0 +1,45 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/fonts/quicksand/quicksand-bold.ttf",
+      "sha1": "07ca4486c80653a7f3abc18145c2f251d5c9989b"
+    },
+    {
+      "path": "src/fonts/quicksand/quicksand-light.ttf",
+      "sha1": "0d6fe8746125375ffd3ea4de6ecf062643a65c52"
+    },
+    {
+      "path": "src/fonts/quicksand/quicksand-medium.ttf",
+      "sha1": "9cbdd6785519aa2d85ee58cb5101ea9dbff8652f"
+    },
+    {
+      "path": "src/fonts/quicksand/quicksand-regular.ttf",
+      "sha1": "ba6e4d47926d643a8a4b509b193b3a87c3ea385d"
+    },
+    {
+      "path": "src/fonts/quicksand/quicksand-semiBold.ttf",
+      "sha1": "1f5c9cf95379bef6cee5f2a7deb393b157c91f4e"
+    },
+    {
+      "path": "src/fonts/syne/syne-bedium.ttf",
+      "sha1": "132da5831d2cb1cf0775971fb1cc8a24e48ed5a5"
+    },
+    {
+      "path": "src/fonts/syne/syne-bold.ttf",
+      "sha1": "2830f4a34f1c36916b5a49bdf9bce409e123f28f"
+    },
+    {
+      "path": "src/fonts/syne/syne-extrabold.ttf",
+      "sha1": "5cb28faab7bb8e42fe1c2cdac39f7ad13f91b275"
+    },
+    {
+      "path": "src/fonts/syne/syne-regular.ttf",
+      "sha1": "ee7d729930a2e813f62df6205d5f0558fef66961"
+    },
+    {
+      "path": "src/fonts/syne/syne-semibold.ttf",
+      "sha1": "d41ca670a1e7fda88747fc54a709a5cb50febb46"
+    }
+  ]
+}

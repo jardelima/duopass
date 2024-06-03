@@ -1,0 +1,42 @@
+{
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.formatOnSave": true,
+
+    // parte do ESLint:
+    "editor.renderLineHighlight": "gutter",
+    "emmet.syntaxProfiles": {
+        "javascript": "jsx",
+    },
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "javascript.updateImportsOnFileMove.enabled": "never",
+    "breadcrumbs.enabled": true,
+    "editor.parameterHints.enabled": true,
+
+    "eslint.autoFixOnSave": true,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": "explicit"
+    },
+    "eslint.validate": [
+        {
+            "language": "javascript",
+            "autoFix": true,
+        },
+        {
+            "language": "javascriptreact",
+            "autoFix": true,
+        },
+        {
+            "language": "typescript",
+            "autoFix": true,
+        },
+        {
+            "language": "typescriptreact",
+            "autoFix": true,
+        },
+    ]
+}
