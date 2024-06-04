@@ -83,11 +83,6 @@ Rotas utilizadas pelo para executar metodos de **POST** e **GET** no banco de da
 |------|--------------|
 |```GET``` /coupons/featured?state=|Retorna os descontos destacados disponíveis.|
 |```GET``` /coupons?state=|Retorna os descontos disponíveis.|
-|```GET``` /hotel/{```ID DO HOTEL```}/products|Informa quais produtos o hotel disponibiliza para compra.|
-|```GET``` /hotel/{```ID DO HOTEL```}/products/fridge|Informa quais produtos do frigobar o hotel disponibiliza para compra.|
-|```GET``` /hotel/{```ID DO HOTEL```}/products/pool|Informa quais produtos da piscina o hotel disponibiliza para compra.|
-|```GET``` /hotel/{```ID DO HOTEL```}/services|Informa quais serviços o hotel disponibiliza para compra.|
-|```GET``` /hotel/{```ID DO HOTEL```}/tours|Informa quais passeios o hotel disponibiliza para compra.|
 
 #### ASSINATURAS
 | Nome | Funcionalidade|
