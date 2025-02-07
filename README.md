@@ -16,8 +16,6 @@ Para executar o projeto, utilize as ferramentas descritas na sessão *Ferramenta
 * [Android Studio](https://developer.android.com/studio)
 * [React Native](https://reactnative.dev/) - (Versão >= 0.73.2)
 
-# < Conecta Inn >
-
 ## Introdução
 
 Esse projeto foi desenvolvido para facilitar a compra de descontos disponibilizados pelas empresas parceiras da assinatura Duopass. O aplicativo também disponibilizará todas as informações que o cliente queira saber, por exemplo: Dias e horário de funcionamento, regras de uso, avaliações de outros clientes, etc.
